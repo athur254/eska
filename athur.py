@@ -6,8 +6,12 @@ class person:
       
   def greetings(name):
       print ("Hello %s",name)
+  
+  def getHeight():
+      print(self.height)
       
   
 athur = person()
 athur.greetings("Patrick")
+athur.getHeight()
       
