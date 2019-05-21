@@ -1,2 +1,2 @@
 # eska
-pambana na hali yako
+artificialInteligenceClass001
